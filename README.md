@@ -1,16 +1,9 @@
-# pokemon_app
+# Pokemon App
 
-A new Flutter project.
+Basic flutter tutorial by creating a pokemon application by using a 3rd party api (https://pokeapi.co/) \
+Medium Link : https://mario-gunawan.medium.com/simple-data-fetching-in-flutter-5265ff908dd9 \
 
-## Getting Started
+## How to run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. `flutter pub get`
+2. `flutter run`
